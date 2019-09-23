@@ -4,6 +4,7 @@
 **/.gradle/
 **/build/
 **/bin/
+**/*.bin
 **/*.class
 **/*.iml
 **/*.log
