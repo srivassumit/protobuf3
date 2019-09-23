@@ -1,0 +1,16 @@
+.vscode/*
+.history/*
+**/.idea/*
+**/.gradle/
+**/build/
+**/bin/
+**/*.class
+**/*.iml
+**/*.log
+**/*.jar
+**/*.war
+**/*.nar
+**/*.ear
+**/*.zip
+**/*.tar.gz
+**/*.rar
