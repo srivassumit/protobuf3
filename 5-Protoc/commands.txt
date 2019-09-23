@@ -1,0 +1,11 @@
+Python:
+    specifc proto file: protoc -I=proto --python_out=python proto/simple.proto
+    all proto files: protoc -I=proto --python_out=python proto/*.proto
+
+Java
+    specifc proto file: protoc -I=proto --java_out=java proto/simple.proto
+    all proto files: protoc -I=proto --java_out=java proto/*.proto
+
+Javascript
+    specifc proto file: protoc -I=proto --js_out=js proto/simple.proto
+    all proto files: protoc -I=proto --js_out=js proto/*.proto
